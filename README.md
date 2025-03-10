@@ -69,15 +69,23 @@ The following diagrams correspond to the implementation of the design patterns:
  ![image](https://github.com/user-attachments/assets/ae5779aa-0f65-4e42-87bf-d4d081673d35)
 **interface service group and service using Composite**
  _service group_
+ 
 ![image](https://github.com/user-attachments/assets/485bbd5e-efb3-4784-a6fb-70565a684307)
+
 _service_
+
 ![image](https://github.com/user-attachments/assets/cd03ad47-b935-4a1c-a311-0a23185175b5)
+
 _add department head and service_
+
 ![image](https://github.com/user-attachments/assets/53cda302-9915-4a1b-ac37-349e7b8dfcc2)
 ![image](https://github.com/user-attachments/assets/29923d64-0820-4c51-a530-a1720414aa19)
 **login department head**
+
 ![image](https://github.com/user-attachments/assets/b6a0ae1b-3e1a-4e4d-b609-690997ca49ac)
+
 _department head dachbord use Mediator_
+
 ![image](https://github.com/user-attachments/assets/031e5ae2-797d-49ea-a0ea-dfe5279e88a8)
 
 ## 7. Conclusion
